@@ -1,5 +1,3 @@
-﻿# Nerko-Clone
-
 # [Nerko] - Frontend Clone
 
 This is a **frontend clone** of the website [https://themegenix.net/wp/nerko/].  
