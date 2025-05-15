@@ -13,7 +13,8 @@ It has been developed **purely for educational and personal practice purposes**,
 
 ## 📸 Screenshots
 
-![screenshot](https://github.com/user-attachments/assets/2b9f3101-1bcd-4c50-a804-3968a6b24470)
+![screenshot](https://github.com/user-attachments/assets/0069caed-c933-409a-83a5-c14ba7abb262)
+
 
 
 
